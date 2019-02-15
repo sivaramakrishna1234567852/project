@@ -1,0 +1,55 @@
+{
+"basic":{
+"image":"sss.png",
+"name":"siva",
+"email":"sunkarasivaramkrishna@gmail.com",
+"nuber":"+91-8309284750",
+"address":"pragati engineering college,suramplam."
+},
+"info":{
+  "career":"Energetic and passionate entry-level professional seeking a full-time janitorial position."
+},
+  "education":[
+    {
+  "instution":"pragati college",
+  "degree":"b.tech",
+  "passout":"2021"
+  },
+
+  {
+   "instution":"APT college",
+   "degree":"diploma",
+  "passout":"2017"
+
+},
+
+{
+"instution":"sasi SCHOOL",
+"degree":"SSC",
+"passout":"2014"
+}
+],
+"Skills" :[
+  {
+  "title":"progamming languages",
+  "content":["c","java","webapplicatoins"]
+
+},
+
+{
+"title":"operating systems",
+"content":["c","java","webapplicatoins"]
+
+},
+
+{
+"title":"Databases",
+"content":["indexDBD","mysql","oracle"]
+
+}
+
+
+]
+
+
+}
